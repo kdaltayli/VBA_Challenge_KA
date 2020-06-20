@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module1"
+
 Sub VBA_Stock()
 Dim a As Double
 Dim Total As Double
